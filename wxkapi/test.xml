@@ -8,9 +8,11 @@
 	<test name="com.wxk.org">
 	    <classes>
 			<class name="com.wxk.org.ApiTest" />
+						<class name="com.wxk.org.Helloword" />
+
 		</classes>
 		<classes>
-			<class name="com.wxk.org.Helloword" />
+
 		</classes>
 
 
