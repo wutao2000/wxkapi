@@ -8,15 +8,15 @@ public class TestApi {
     
     public static void TestApi (){
     	
-    	System.out.println("ok*&^%$#@$%^&*^%$#");
+    	System.out.println("999999");
     	
     }
     public static void T2(){
-    	System.out.println("wuxiangkuang!!!!!!!!!!!!!!!!!!!!!!");
+    	System.out.println("909!!!!!!!!!!!!!!!!!!!!!!");
     }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        System.out.println("·Ü¶·µÄÈËÉú£¡£¡£¡£¡£¡£¡");
+        System.out.println("9090909");
         
         System.out.println(true);
         
