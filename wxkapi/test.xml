@@ -6,12 +6,13 @@
 
 	<!-- @BeforeTest -->
 	<test name="com.wxk.org">
+	    <classes>
+			<class name="com.wxk.org.ApiTest" />
+		</classes>
 		<classes>
 			<class name="com.wxk.org.Helloword" />
 		</classes>
-		<classes>
-			<class name="com.wxk.org.ApiTest" />
-		</classes>
+
 
 	</test>
 	<!-- @AfterTest -->
