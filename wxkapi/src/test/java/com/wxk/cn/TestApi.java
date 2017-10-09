@@ -8,12 +8,14 @@ public class TestApi {
     
     public static void TestApi (){
     	
-    	System.out.println("999999");
+    	System.out.println("999999----test/java/");
     	
     }
+    @Test
     public static void T2(){
     	System.out.println("909!!!!!!!!!!!!!!!!!!!!!!");
     }
+    @Test
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         System.out.println("9090909");

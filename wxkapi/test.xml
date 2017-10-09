@@ -7,8 +7,9 @@
     <!-- @BeforeTest -->
     <test name="case1">
         <classes>
-            <class name="com.cn.wxk.Helloword" />
+            <class name="com.wxk.org.Helloword" />
         </classes>
+        
     </test>
     <!-- @AfterTest -->
 
