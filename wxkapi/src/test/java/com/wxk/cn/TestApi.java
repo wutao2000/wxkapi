@@ -6,15 +6,22 @@ import org.testng.annotations.Test;
 public class TestApi {
     @Test
     
-    public static void TestApi (){
+    public static void TestApi(){
     	
-    	System.out.println("999999----test/java/");
+    	System.out.println("one----test/java/TestApi");
     	
     }
     @Test
     public static void T2(){
-    	System.out.println("909!!!!!!!!!!!!!!!!!!!!!!");
+    	System.out.println("wto----T2");
     }
+    
+    @Test
+    public static void T3(){
+    	System.out.println("wto----T3");
+    }
+    
+    
     
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

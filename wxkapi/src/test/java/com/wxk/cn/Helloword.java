@@ -2,9 +2,15 @@ package com.wxk.cn;
 
 import org.testng.annotations.Test;
 
-@Test
+
 public class Helloword {
+	@Test
     public void testABC(){
-    	System.out.println("989898999");
+    	System.out.println("one-----------");
+    }
+	
+	@Test
+    public void testABd(){
+    	System.out.println("two-----------");
     }
 }

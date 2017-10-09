@@ -8,8 +8,13 @@
 	<test name="com.wxk.org">
 	    <classes>
 			<class name="com.wxk.org.ApiTest" />
-
-
+		    <class name="com.wxk.org.Helloword" />
+	          <methods>
+	              <include name="B" />
+	              <include name="A" />
+	          </methods>
+	        <class name="com.wxk.cn.TestApi" />
+		    <class name="com.wxk.cn.Helloword" />
 		</classes>
 
 
