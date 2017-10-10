@@ -13,12 +13,12 @@ public class TestApi {
     }
     @Test
     public static void T2(){
-    	System.out.println("wto----T2");
+    	System.out.println("two----T2");
     }
     
     @Test
     public static void T3(){
-    	System.out.println("wto----T3");
+    	System.out.println("three----T3");
     }
     
     
@@ -32,7 +32,7 @@ public class TestApi {
         TestApi();
         TestApi.TestApi();
         
-        TestApi TT= new TestApi();
+
         T2();
         
 	}
