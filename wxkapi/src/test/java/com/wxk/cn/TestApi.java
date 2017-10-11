@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class TestApi {
     @Test
     
-    public static void TestApi(){
+    public static void T1(){
     	
     	System.out.println("one----test/java/TestApi");
     	
@@ -21,6 +21,10 @@ public class TestApi {
     	System.out.println("three----T3");
     }
     
+    @Test
+    public static void T4(){
+    	System.out.println("four----T4");
+    }
     
     
 	public static void main(String[] args) {
@@ -29,9 +33,7 @@ public class TestApi {
         
         System.out.println(true);
         
-        TestApi();
-        TestApi.TestApi();
-        
+
 
         T2();
         

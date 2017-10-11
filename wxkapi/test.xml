@@ -5,7 +5,7 @@
 <suite name="TestAll">
 
 	<!-- @BeforeTest -->
-	<parameter name="testapi" value="${testapi}"
+	<parameter name="testapi" value="${testapi}"></parameter>
 	<test name="com.wxk.org">
 	    <classes>
 			<class name="com.wxk.org.ApiTest" />
