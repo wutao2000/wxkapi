@@ -14,13 +14,7 @@
 	</properties>
 
 	<dependencies>
-		<repositories>
-			<repository>
-				<id>jcenter</id>
-				<name>bintray</name>
-				<url>http://jcenter.bintray.com</url>
-			</repository>
-		</repositories>
+
 
 		<dependency>
 			<groupId>org.testng</groupId>
